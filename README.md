@@ -1,1 +1,1 @@
-# college_prediction
+Predicting college acceptance (Deep Learning)
