@@ -1,1 +1,1 @@
-Predicting college acceptance (Deep Learning / Machine Learning)
+Predicting college acceptance from .csv file(Deep Learning / Machine Learning)
