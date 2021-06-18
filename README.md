@@ -1,1 +1,1 @@
-Predicting college acceptance (Deep Learning)
+Predicting college acceptance (Deep Learning / Machine Learning)
